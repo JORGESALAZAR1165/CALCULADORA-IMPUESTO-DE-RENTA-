@@ -86,14 +86,11 @@ La herramienta te mostrará:
 
 <div align="center">
 
-![Interfaz Principal](imagen1.png)
+![Interfaz Principal](imagen1.jpeg)
 *Pantalla principal de la calculadora*
 
-![Resultados del Cálculo](imagen2.png)
+![Resultados del Cálculo](imagen2.jpeg)
 *Vista detallada de los resultados*
-
-![Depuración Completa](imagen3.png)
-*Proceso completo de depuración*
 
 </div>
 
